@@ -145,8 +145,7 @@ body {
   border-radius: 50%;
   background-color: rgba(0, 0, 0, 0.3);
   bottom: 250px;
-
-  top:70%;
+  top:80%;
   animation: scale 3s linear infinite;
   z-index: -1;
 }
@@ -172,8 +171,8 @@ body {
     transform: scaleX(0.85);
   }
 }
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .shadow {
     left: 6%;
   }
-}
+} */
